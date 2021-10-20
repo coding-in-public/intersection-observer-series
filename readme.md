@@ -7,9 +7,9 @@ In this video, I'll show you how to:
 • and more! 
 
 ## Videos in Series
-Part 1 (transparent nav on scroll): https://youtu.be/noBm_S4IKr0
-Part 2 (fade in images on scroll): https://youtu.be/sRrNgeXBHBA
-Part 3 (enable terms and conditions button): https://youtu.be/01nob2TIqaU
+- Part 1 (transparent nav on scroll): https://youtu.be/noBm_S4IKr0
+- Part 2 (fade in images on scroll): https://youtu.be/sRrNgeXBHBA
+- Part 3 (enable terms and conditions button): https://youtu.be/01nob2TIqaU
 
 ## 1. Node JS
 
